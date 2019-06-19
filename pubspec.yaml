@@ -1,0 +1,49 @@
+name: mobx_module
+description: A new Flutter application.
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  shared_preferences:
+  http:
+  intl:
+  flutter_launcher_icons:
+  f_logs:
+  mobx:
+  flutter_mobx:
+  mobx_codegen:
+  provider:
+  validators:
+  json_serializable:
+  dio:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_launcher_icons:
+  build_runner:
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/quicksand_medium.ttf
+          style: normal
+        - asset: assets/fonts/quicksand_bold.otf
+          weight: 700
+
+
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/raleway_regular.ttf
+          style: normal
+        - asset: assets/fonts/raleway_medium.ttf
+
