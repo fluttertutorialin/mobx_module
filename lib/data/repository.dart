@@ -4,7 +4,6 @@ import 'package:dio/dio.dart';
 import 'package:mobx_module/data/local/datasources/post/post_datasource.dart';
 import 'package:mobx_module/data/sharedpref/shared_preference_helper.dart';
 import 'package:mobx_module/models/post/post.dart';
-import 'package:mobx_module/models/post/post_list.dart';
 import 'package:sembast/sembast.dart';
 
 import 'package:mobx_module/constants/db_constants.dart';

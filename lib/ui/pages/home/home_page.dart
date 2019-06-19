@@ -1,4 +1,3 @@
-import 'package:mobx_module/constants/preferences.dart';
 import 'package:mobx_module/stores/post/post_store.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
